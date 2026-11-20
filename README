@@ -1,0 +1,69 @@
+# PROLAOG Internal App
+
+Internal business application developed for **PROLAOG** to simplify daily operations, improve communication, and streamline on-site management.
+
+## Overview
+
+The PROLAOG Internal App is designed to support the company's 現場サイド (on-site operations team) by providing a centralized platform for managing work schedules and submitting operational reports.
+
+The goal is to reduce manual coordination, make important information easier to access, and improve visibility across daily business operations.
+
+## Main Features
+
+### 1. Schedule Management
+- Manage and organize work schedules.
+- Check upcoming assignments and scheduled activities.
+- Make schedule information easier to share and manage.
+- Help on-site staff stay informed about their daily tasks.
+
+### 2. Report Management
+- Submit reports related to on-site activities.
+- Centralize operational reports in one system.
+- Make submitted information easier to review and manage.
+- Improve communication between field staff and management.
+
+## Purpose
+
+The application aims to:
+
+- Simplify daily work for on-site staff.
+- Reduce paperwork and manual administrative tasks.
+- Improve schedule coordination.
+- Standardize reporting processes.
+- Make operational information more accessible.
+- Support more efficient internal communication.
+
+## Intended Users
+
+This application is intended exclusively for internal use by PROLAOG personnel.
+
+Primary users:
+- **現場スタッフ** – Manage schedules and submit work reports.
+- **Management / Office Staff** – Coordinate schedules and review submitted reports.
+- **Administrators** – Manage system operations and internal access.
+
+## System Access
+
+This is a private internal application.
+
+Access is restricted to authorized PROLAOG personnel. It is not intended for public use.
+
+## Development
+
+This repository contains the source code and related resources for the PROLAOG Internal App.
+
+Further technical documentation, installation instructions, environment configuration, and deployment procedures can be added as the development process progresses.
+
+## Security
+
+- Internal company use only.
+- Access should be limited to authorized personnel.
+- Sensitive company information must not be committed to the repository.
+- Environment variables and credentials must be kept out of version control.
+
+## Project
+
+**Project Name:** PROLAOG Internal App  
+**Organization:** PROLAOG  
+**Purpose:** Internal Schedule & Report Management  
+**Usage:** Private / Internal Use Only
